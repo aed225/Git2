@@ -1,5 +1,5 @@
 Resolusi Saya Dalam Tahun 2023
 - Belajar Front-End sudah selesai
 - Belajar Back-End sudah ditengah
+- Praktek AWS Cloud
 - Belajar algoritma Struktur Data
-- Belajar AWS Cloud
