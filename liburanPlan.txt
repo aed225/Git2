@@ -2,5 +2,7 @@ Rencana Belajar Saat Liburan
 1. Git dan Github
 2. SaSS
 3. JS
+  *DOM
 4. PHP
+  *Framework
 5. Algoritma Struktur Data
