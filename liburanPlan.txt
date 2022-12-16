@@ -1,0 +1,6 @@
+Rencana Belajar Saat Liburan
+1. Git dan Github
+2. SaSS
+3. JS
+4. PHP
+5. Algoritma Struktur Data
