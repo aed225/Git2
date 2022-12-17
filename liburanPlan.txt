@@ -3,6 +3,9 @@ Rencana Belajar Saat Liburan
 2. SaSS
 3. JS
   *DOM
+  *Framework
+   ^ Vue
+   ^ React
 4. PHP
   *Framework
 5. Algoritma Struktur Data
