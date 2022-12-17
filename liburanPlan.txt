@@ -11,3 +11,4 @@ Rencana Belajar Saat Liburan
    ^Laravel
 5. Algoritma Struktur Data
 6. Basis Data
+7. Dicoding
