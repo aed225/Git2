@@ -6,3 +6,4 @@ Rencana Belajar Saat Liburan
 4. PHP
   *Framework
 5. Algoritma Struktur Data
+6. Basis Data
