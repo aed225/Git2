@@ -4,10 +4,11 @@ Rencana Belajar Saat Liburan
 3. JS
   *DOM
   *Framework
-   ^ Vue
+   ^ Angular
    ^ React
 4. PHP
   *Framework
    ^Laravel
 5. Algoritma Struktur Data
 6. Basis Data
+7. Dicoding
