@@ -8,5 +8,6 @@ Rencana Belajar Saat Liburan
    ^ React
 4. PHP
   *Framework
+   ^Laravel
 5. Algoritma Struktur Data
 6. Basis Data
