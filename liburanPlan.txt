@@ -4,7 +4,7 @@ Rencana Belajar Saat Liburan
 3. JS
   *DOM
   *Framework
-   ^ Vanilla
+   ^ Vue
    ^ React
 4. PHP
   *Framework
